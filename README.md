@@ -1,2 +1,2 @@
-# CleaningData
-Coursera Getting and Cleaning Data Class project
+# Getting and Cleaning Data
+Coursera "Getting and Cleaning Data" Class project
